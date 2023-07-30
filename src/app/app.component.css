@@ -1,0 +1,19 @@
+.navbar-brand {
+    font-family: Monoton;
+    color: rgb(255, 247, 12);
+    font-size: 30px;
+
+}
+.navbar{
+    background-color: #AF0171;
+
+}
+
+.navbar-nav .nav-link.active {
+    color: rgb(255, 247, 12);
+    /* background-color: #AF0171; */
+    font-family: 'Roboto';
+    font-weight:600;
+    font-size: 20px;
+}
+

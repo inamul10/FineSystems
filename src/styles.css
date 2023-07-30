@@ -1,1 +1,11 @@
-/* You can add global styles to this file, and also import other style files */
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: #AF0171;
+    font-family: 'Shantell Sans', cursive;
+    font-family: 'Tilt Neon', cursive;
+    color:rgb(255, 247, 12) ;
+}
